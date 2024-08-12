@@ -1,4 +1,4 @@
-- 👋 Eae? Sou @DevMaycon
+- 👋 Eae? Me chamo Maycon
 - 🌱 I’m currently C++ ...
 - 📫 How to reach me dev.maycon08@gmail.com
 - 😄 Pronouns: he/him
