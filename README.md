@@ -1,9 +1,11 @@
-- 👋 Eae? Me chamo Maycon
-- 🌱 I’m currently C++ ...
-- 📫 How to reach me dev.maycon08@gmail.com
-- 😄 Pronouns: he/him
+### Olá? Prazer, Maycon.
+- 🌱 Vivendo e Aprendendo C++
+- 📫 Contate-me com dev.maycon08@gmail.com
+- 😄 Pronomes: he/him
 
-<!---
-DevMaycon/DevMaycon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+    <img width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+    <img width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+    <img width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>          
+</div>
