@@ -13,7 +13,7 @@
 **<img align="center" width="20em" src="https://skillicons.dev/icons?i=python"/> - Atualmente Dominando somente python.**
 # 
 <div style="display: inline_block;">
-    <img align="top" height="150em" width="400em" src="https://github-readme-stats.vercel.app/api?username=devmaycon&show_owner=true&theme=chartreuse-dark&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&show_rank=false"/>
+    <img align="top" height="150em" width="400em" src="https://github-readme-stats.vercel.app/api?username=devmaycon&show_owner=true&theme=chartreuse-dark&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&rank_icon=github"/>
     <img align="top" height="150em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaycon&theme=chartreuse-dark&layout=compact"/>
 </div>
 
