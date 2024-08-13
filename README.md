@@ -1,10 +1,9 @@
 ### Olá? Prazer, Maycon.
-- 🌱 Vivendo e Aprendendo C++
+- Sempre Aprendendo Novas Linguagens
 - 📫 Contate-me com dev.maycon08@gmail.com
-- 😄 Pronomes: he/him
+- 😄 Pronomes: Ele/Dele
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-    <img class="javascript" width="35em" style="border-radius: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-    <img width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+<div style="display: block;">
+    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=devmaycon&show_owner=true&theme=chartreuse-dark&show_icons=true&hide_title=true&count_private=true&include_all_commits=true"/>
+    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmaycon&repo=DevMaycon&theme=chartreuse-dark&layout=compact"/>
 </div>
