@@ -1,4 +1,4 @@
-# 🧑‍💻 Olá! | Hi!
+## 🧑‍💻 Olá! | Hi!
 <h4>PT-BR</h4>
 <p><b>Prazer, Sou Maycon, Futuro Desenvolvedor full-stack, Tenho muita dedicação, persistência e eficiencia em muitos aspectos, sempre buscando melhorias utilizando resoluções de problemas com criatividade, mantendo meus códigos organizados, consistentes e com performance.</b></p>
 
@@ -13,21 +13,18 @@
 </div>
 
 #
-### ⚡ Objetivos
+### Objetivos:
 - **Portifólio.**
 - **Criação de Projetos Inovadores.**
 - **Começar Carreira Como Um Desenvolvedor junior.**
 - **Dominar Conceitos Básicos e Intermédiarios de Javascript.**
 
-# Experiencias
-**<img align="center" width="15em" src="https://skillicons.dev/icons?i=javascript"/> - Aprendizado Constante.**
-    
-**<img align="center" width="15em" src="https://skillicons.dev/icons?i=python"/> - Intermediário**
-   
-**<img align="center" width="15em" src="https://skillicons.dev/icons?i=html"/> - Básico**
-   
-**<img align="center" width="15em" src="https://skillicons.dev/icons?i=css"/> - Básico**
-
+#
+### Experiencias:
+**<img align="center" width="15em" src="https://skillicons.dev/icons?i=javascript"/> - Aprendizado Constante.**<br>
+**<img align="center" width="15em" src="https://skillicons.dev/icons?i=python"/> - Intermediário**<br>
+**<img align="center" width="15em" src="https://skillicons.dev/icons?i=html"/> - Básico**<br>
+**<img align="center" width="15em" src="https://skillicons.dev/icons?i=css"/> - Básico**<br>
 # 
 <div style="display: inline_block;">
     <img align="top" height="150em" width="400em" src="https://github-readme-stats.vercel.app/api?username=devmaycon&show_owner=true&theme=chartreuse-dark&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&rank_icon=github"/>
