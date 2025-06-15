@@ -3,17 +3,18 @@
     <head>
         <meta charset="UTF-8">
         <title>Meu Portifólio</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
         <link rel="stylesheet" href="css/main.css">
     </head>
     <body>
         <nav class="nav">
-            <a class="nav-item">Inicio</a>
-            <a class="nav-item">Projetos</a>
-            <a class="nav-item">Contato</a>
+            <a class="nav-item" href="#profile">Sobre</a>
+            <a class="nav-item" href="#projects">Projetos</a>
+            <a class="nav-item" href="#contact">Contato</a>
         </nav>
-        <div class="profile-container">
+        <div class="profile">
             <img id="profile-image" src="img/profile.png" alt="" class="nav-profile">
             <div class="profile-content">
                 <h1>🧑‍💻 | Olá, seja bem vindo(a)</h1>
@@ -31,16 +32,77 @@
             <i class="devicon-amazonwebservices-plain"></i>
             <i class="devicon-googlecloud-plain"></i>
         </div>
-        <main>
-            <h1 id="projects-title">Projetos</h1>
-        </main>
-        <footer>
-            <div class="social-medias">
-                <a href="https://github.com/DevMaycon">Github</a>
-                <a href="https://instagram.com/eu.devmike">Instagram</a>
-                <a href="https://api.whatsapp.com/send?phone=5512997175047">Whatsapp</a>
+        <section id="projects">
+            <h2>Projetos</h2>
+            <div class="projetos-grid">
+                <div class="projeto">
+                    <h3>Servidor BombSquad - Champions BS</h3>
+                    <p>Servidor dedicado BombSquad customizado, com partidas personalizadas, mods exclusivos e integração multiplayer.</p>
+                    <div class="project-footer">
+                        <div class="icons">
+                            <i class="devicon-cplusplus-plain"></i>
+                            <i class="devicon-python-plain"></i>
+                            <i class="devicon-linux-plain"></i>
+                            <i class="devicon-googlecloud-plain"></i>
+                            <i class="devicon-amazonwebservices-plain"></i>
+                        </div>
+                        <a href="#projetos">Projeto Privado.</a>
+                    </div>
+                </div>
+                <div class="projeto">
+                    <h3>Bombsquad Server Router</h3>
+                    <p>Sistema de roteamento entre servidores do jogo BombSquad, com funcionalidades de proxy e servidores dedicados. Focado em estabilidade, escalabilidade e controle da rede multiplayer.</p>
+                    <div class="project-footer">
+                        <div class="icons">
+                            <i class="devicon-javascript-plain"></i>
+                            <i class="devicon-html5-plain"></i>
+                            <i class="devicon-css3-plain"></i>
+                            <i class="devicon-cplusplus-plain"></i>
+                            <i class="devicon-linux-plain"></i>
+                        </div>
+                        <a href="https://github.com/DevMaycon/bombsquad-servers-router" target="_blank">Acessar Projeto.</a>
+                    </div>
+                </div>
             </div>
-            <p id="copyright">&copy; 2024 Maycon Soares. Todos os direitos reservados.</p>
-        </footer>
+        </section>
+        <section id="contact-form-section">
+            <!-- FOOTER COM FORMULÁRIO DE CONTATO -->
+            <form  action="" method="POST" class="contact-form">
+                <label>
+                    Nome
+                    <input type="text" name="name" required>
+                </label>
+                <label>
+                    E‑mail
+                    <input type="email" name="_replyto" required>
+                </label>
+
+                <label class="full">
+                    Mensagem
+                    <textarea name="message" rows="4" required></textarea>
+                </label>
+
+                <button type="submit">Enviar</button>
+            </form>
+        </section>
     </body>
+    <footer id="contact">
+        <div class="footer-container">
+            <div class="social-medias">
+                <a href="https://www.linkedin.com/in/devmaycon/" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-linkedin"></i>Linkedln
+                </a>
+                <a href="https://github.com/DevMaycon" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-github"></i>GitHub
+                </a>
+                <a href="https://instagram.com/eu.devmike" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-instagram"></i>Instagram
+                </a>
+                <a href="https://api.whatsapp.com/send?phone=5512997175047" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-whatsapp"></i>WhatsApp
+                </a>
+            </div>
+            <p>&copy; 2024 Maycon Soares. Todos os direitos reservados.</p>
+        </div>
+    </footer>
 </html>
